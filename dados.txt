@@ -1,10 +1,10 @@
- Olá ! Meu nome é Dyênifer Thaís Frazão da Silva, mas pode me chamar de 
+  // Olá ! Meu nome é Dyênifer Thaís Frazão da Silva, mas pode me chamar de 
  Shelly ^^ . Tenho 19 (dezenove) anos e sou de Passo Fundo no Rio Grande do Sul,
  Brasil. Pode entrar em contato comigo pelo 
  email: thaimint04@gmail.com
  ou também pelo telefone/whatsapp: (54) 9 9115-8914
 
- Atuo na área de front-end com melhor desempenho na Web. Tenho uma grande 
+ // Atuo na área de front-end com melhor desempenho na Web. Tenho uma grande 
  paixão e curiosidade pela área de Cibersegurança e gostaria de mergulhar 
  nesse mundo também ! Procuro por uma oportunidade de crescer e me
  desenvolver junto com ideias geniais e pessoas incríveis. 
