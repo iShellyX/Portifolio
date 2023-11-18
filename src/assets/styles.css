@@ -17,12 +17,15 @@ body {
     margin: 0;
 }
 
-.headerMain {
+header {
     background-color: #2f3559;
     color: white;
     font-family: 'Agbalumo';
+    display: flex;
+    align-items: center;
     flex-direction: row;
-    position: static;
+    position: fixed;
+    width: 100%;
 }
 
 .barras {
@@ -31,21 +34,22 @@ body {
 }
 
 .logoIcon {
-    position: relative;
-    top: 7px;
-    left: 500px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .logo {
-    position: relative;
-    top: -20px;
-    left: 590px;
+    margin: 0;
+    text-align: left;
 }
 
 .partOne {
     background-color: #f1bbbb;
     border-radius: 90px;
-    margin-top: 10px;
+    margin-top: 50px;
     padding: 30px;
 }
 
@@ -160,7 +164,17 @@ body {
     padding: 40px;
 }
 
-ul {
+.extracurricular {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-family: 'Roboto Mono';
+    font-weight: 300;
+    font-size: 25px;
+    list-style-type: disc;
+}
+
+li {
     display: flex;
     justify-content: left;
     align-items: left;
@@ -208,4 +222,8 @@ footer {
     background-color: #9a5071;
     padding: 15px;
     margin-top: 20px;
+}
+
+.bold {
+    font-weight: bold; 
 }
