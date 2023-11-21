@@ -22,28 +22,26 @@ header {
     color: white;
     font-family: 'Agbalumo';
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    flex-direction: row;
     position: fixed;
     width: 100%;
 }
 
 .barras {
-    margin-top: 0px;
-    margin-left: 20px;
+    margin-right: auto;
 }
 
 .logoIcon {
-    display: flex;
-    align-items: right;
-    justify-content: right;
-    margin: 0 auto;
-    padding: 0;
+    width: 40px;
+    height: auto;
+    margin-left: auto;
+    
 }
 
 .logo {
     margin: 0;
-    text-align: left;
+    margin-right: auto;
 }
 
 .partOne {
